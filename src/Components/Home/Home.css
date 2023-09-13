@@ -1,0 +1,27 @@
+.home {
+  background-color: #1cbc9c;
+}
+
+.inner-home .title {
+  color: white;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.inner-home p {
+  color: white;
+}
+.inner-home img {
+  background-color: white;
+  border-radius: 50%;
+}
+.inner-home .line {
+  height: 4px;
+  width: 100px;
+  background-color: white;
+  margin: 15px;
+}
+.inner-home .star {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=Home.css.map */

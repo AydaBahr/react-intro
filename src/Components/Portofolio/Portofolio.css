@@ -1,0 +1,38 @@
+.header-portofolio h1 {
+  color: #161d27;
+  font-weight: bold;
+}
+.header-portofolio .line {
+  height: 4px;
+  width: 100px;
+  background-color: #161d27;
+  margin: 15px;
+}
+.header-portofolio .star {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portofolio .card {
+  position: relative;
+  display: inline-block;
+}
+.portofolio .card .plus {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.portofolio .card:hover {
+  opacity: 0.55;
+  cursor: pointer;
+}
+.portofolio .card:hover .plus {
+  opacity: 1;
+}/*# sourceMappingURL=Portofolio.css.map */

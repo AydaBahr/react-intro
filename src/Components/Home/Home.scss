@@ -1,0 +1,29 @@
+.home {
+    background-color: #1cbc9c;
+}
+.inner-home{
+.title{
+    color: white;
+    font-weight: bold;
+    margin-top: 50px;
+}
+p{
+    color: white;
+}
+
+img{
+    background-color: white;
+    border-radius: 50%;
+}
+.line{
+    height: 4px;
+    width: 100px;
+    background-color: white;
+    margin: 15px;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}

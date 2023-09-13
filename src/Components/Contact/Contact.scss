@@ -1,0 +1,30 @@
+.contact-header{
+    h1{
+        color: #161d27;
+        font-weight: bolder;
+    }
+
+.line{
+    height: 4px;
+    width: 100px;
+    background-color: #161d27;
+    margin: 15px;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+.form-floating .form-control{
+    border-top: none;
+    border-radius: 25px;
+    border-bottom: .8 black solid;
+    border-left: .8 black solid;
+    border-right: .8 black solid;
+
+}
+button.btn{
+     background-color: #1cbc9c;
+     color: white;
+ }

@@ -1,0 +1,21 @@
+.about{
+    background-color: #1cbc9c;
+    h1{
+        color: white;
+        font-weight: bold;
+    }
+}
+.about-inner .row{
+    color: white;
+}
+.line{
+    height: 4px;
+    width: 100px;
+    background-color: white;
+    margin: 15px;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
